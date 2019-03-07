@@ -1,0 +1,84 @@
+ body {
+    background-color: #979f97
+    }
+    div{
+      padding: 10px;
+      width: 77%;
+      margin:auto;
+      }
+    .menu {
+      display: flex;
+      flex-direction: row;
+      justify-content:space-around;
+      background-color: #33ea33;
+      border: 10px #56d156 solid;
+    }
+    .header {
+      display: flex;
+      flex-direction: row;
+      justify-content:space-around;
+      background-color: #56d156;
+      border: 10px #56d156 solid;
+    }
+    .content {
+      display: flex;
+      flex-direction: row;
+      justify-content:space-around;
+      background-color: #33ea33;
+      border: 10px #56d156 solid;
+    }
+    .he-1{
+      width: 80%;
+      font-size: 3rem;
+      text-align: center;
+      text-shadow: 2px 2px 10px black;
+      font-family: 'Cinzel Decorative', cursive;
+      color: #2a2a2a;
+      border: 4px #56d156 solid;
+    }
+    .he-2{
+      width: 15%;
+      border: 4px #56d156 solid;
+    }
+    .block-1{
+      width: 61%;
+    border: 10px #56d156 solid;
+
+    }
+    .block-2{
+      width: 38%;
+      border: 10px #56d156 solid;
+        }
+    p {
+      font-size: 1.1rem;
+      line-height: 1.5;
+      font-family: 'Roboto Condensed', sans-serif;
+      color: #2a2a2a;
+    }
+    h3, .block-2-1{
+    font-family: 'Cinzel Decorative', cursive;
+    color: #2a2a2a;
+    font-size: 2rem;
+    text-align: center;
+   }
+      .block-2-2 img{
+      width: 48%;
+          }
+    div.he-2 img{
+          width: 57%;
+    }
+    .menu-1, .menu-2, .menu-3, .menu-4, .menu-5{
+      font-family: 'Roboto Condensed', sans-serif;
+      color: #2a2a2a;
+      font-size: 1.4rem;
+      line-height: 1;
+      text-align: center;
+      border: 4px #33ea33 solid;
+    }
+    div.menu-1 div, div.menu-2 div, div.menu-3 div, div.menu-4 div, div.menu-5 div{
+        border: 4px #33ea33 solid;
+    }
+    .footer{
+      background-color: #33ea33;
+      border: 10px #56d156 solid;
+    }
